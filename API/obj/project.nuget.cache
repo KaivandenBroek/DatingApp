@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "X5ai40eYmXfFqyPUORezb7GwZBEQ5p3o8oRuCWH3s/uszEi4xhc2IfNqfEz/DgFm7TW6UKW335VLwmn6plmmIg==",
+  "dgSpecHash": "OP2CSfWI6x9GS3Kih/wp4Zq+XoCj2OysnKpAyme+KqjVaTA5913KHIjx/ZrGmKhURzMcRasA52j5ZWG/yAw9bA==",
   "success": true,
   "projectFilePath": "/Users/kaivandenbroek/Development/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
@@ -36,7 +36,7 @@
     "/Users/kaivandenbroek/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "/Users/kaivandenbroek/.nuget/packages/microsoft.identitymodel.tokens/6.22.0/microsoft.identitymodel.tokens.6.22.0.nupkg.sha512",
     "/Users/kaivandenbroek/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/kaivandenbroek/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
+    "/Users/kaivandenbroek/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/kaivandenbroek/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.6/sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
     "/Users/kaivandenbroek/.nuget/packages/sqlitepclraw.core/2.0.6/sqlitepclraw.core.2.0.6.nupkg.sha512",
     "/Users/kaivandenbroek/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.6/sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",

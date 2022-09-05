@@ -63,3 +63,5 @@
 /Users/kaivandenbroek/Development/DatingApp/API/bin/Debug/net6.0/Data/UserSeedData.json
 /Users/kaivandenbroek/Development/DatingApp/API/bin/Debug/net6.0/AutoMapper.dll
 /Users/kaivandenbroek/Development/DatingApp/API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/kaivandenbroek/Development/DatingApp/API/bin/Debug/net6.0/CloudinaryDotNet.dll
+/Users/kaivandenbroek/Development/DatingApp/API/bin/Debug/net6.0/Newtonsoft.Json.dll
