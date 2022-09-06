@@ -66,9 +66,6 @@ namespace API.Controllers
                 PublicId = result.PublicId
             };
 
-            var NAME = User.GetUsername();
-
-            System.Console.WriteLine("---1----" + NAME + "----2------|||||");
             if (user.Photos.Count == 0)
             {
                 photo.IsMain = true;
